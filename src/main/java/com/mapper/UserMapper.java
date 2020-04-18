@@ -11,4 +11,5 @@ public interface UserMapper {
 
     @Select("select * from customers")
     public List<User> queryUser();
+
 }
