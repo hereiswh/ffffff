@@ -6,4 +6,7 @@ package com.test;
  * @Date 2020/4/18
  */
 public class aaaa {
+    public static void main(String[] args) {
+
+    }
 }
